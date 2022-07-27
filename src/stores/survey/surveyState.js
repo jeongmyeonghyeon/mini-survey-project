@@ -1,7 +1,7 @@
 // import axios from 'axios';
 import { selector } from 'recoil';
 
-import mainApi from '../../services/apis/mainApi';
+// import mainApi from '../../services/apis/mainApi';
 import getSurvey from '../../services/getSurvey';
 
 // axios.defaults.baseURL = 'http://localhost:3001';
